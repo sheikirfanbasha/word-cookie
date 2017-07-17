@@ -1,0 +1,19 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "sample nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "irfan basha sheik",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "request": "^2.69.0",
+    "url": "^0.11.0",
+    "wordnet": "^0.1.2"
+  }
+}
