@@ -1,5 +1,5 @@
 var wordnet = require('wordnet');
-var wor = "got";
+var wor = "bred";
 wordnet.lookup(wor, function(err, definitions) {
 	try{
 		definitions.forEach(function(definition) {
