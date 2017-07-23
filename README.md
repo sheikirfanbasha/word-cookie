@@ -2,7 +2,8 @@
 
 This software generates all valid words of different lengths for given set of letters. Developed in the interest of generating solutions for the famous word-cookie game.
 
-![screenshot_2017-07-23-09-24-02-996_com bitmango go wordcookies](https://user-images.githubusercontent.com/8801972/28496441-23a6ceb2-6f89-11e7-8091-f175dbd86b96.png)
+![screenshot_2017-07-23-10-01-22-003_com bitmango go wordcookies](https://user-images.githubusercontent.com/8801972/28496651-6e147eea-6f8e-11e7-888c-798ff757bb76.png)
+
 
 ## Getting Started
 
