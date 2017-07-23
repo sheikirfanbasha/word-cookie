@@ -20,3 +20,23 @@ prog.generateValidWords("iagme", function(validWords){
 	console.log(validWords);
 });
 ```
+
+## Sample output
+
+```
+[ 'age',
+  'meg',
+  'gem',
+  'emg',
+  'mag',
+  'gam',
+  'ige',
+  'iga',
+  'gia',
+  'mei',
+  'igm',
+  'aim',
+  'game',
+  'magi',
+  'image' ]
+```
