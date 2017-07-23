@@ -1,10 +1,18 @@
 # About
 This software generates all valid words of different lengths for given set of letters
 
-## How to use?
+## Getting Started
+
+1. Install
 
 ```
-var prog = require('./index');
+npm install word-cookie
+```
+
+2. Use
+
+```
+var prog = require('word-cookie');
 prog.generateValidWords("sugar", function(validWords){
 	console.log(validWords);
 });
