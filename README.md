@@ -15,8 +15,8 @@ npm install word-cookie
 2. Use
 
 ```
-var prog = require('word-cookie');
-prog.generateValidWords("iagme", function(validWords){
+var wrdCookieSolver = require('word-cookie');
+wrdCookieSolver.generateValidWords("iagme", function(validWords){
 	console.log(validWords);
 });
 ```
