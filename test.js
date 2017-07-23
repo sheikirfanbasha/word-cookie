@@ -1,4 +1,4 @@
 var prog = require('./index');
-prog.generateValidWords("image", function(validWords){
+prog.generateValidWords("tpnri", function(validWords){
 	console.log(validWords);
 });
