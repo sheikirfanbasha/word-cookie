@@ -16,7 +16,7 @@ npm install word-cookie
 
 ```
 var wrdCookieSolver = require('word-cookie');
-wrdCookieSolver.generateValidWords("iagme", function(validWords){
+wrdCookieSolver.generateValidWords("tpnri", function(validWords){
 	console.log(validWords);
 });
 ```
@@ -24,19 +24,19 @@ wrdCookieSolver.generateValidWords("iagme", function(validWords){
 ## Sample output
 
 ```
-[ 'age',
-  'meg',
-  'gem',
-  'emg',
-  'mag',
-  'gam',
-  'ige',
-  'iga',
-  'gia',
-  'mei',
-  'igm',
-  'aim',
-  'game',
-  'magi',
-  'image' ]
+[ 'inr',
+  'rip',
+  'pin',
+  'nip',
+  'prn',
+  'tin',
+  'nit',
+  'tip',
+  'pit',
+  'tpn',
+  'nipr',
+  'nrti',
+  'trip',
+  'pint',
+  'print' ]
 ```
