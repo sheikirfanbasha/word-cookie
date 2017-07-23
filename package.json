@@ -1,11 +1,19 @@
 {
   "name": "word-cookie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This software generates all valid words of different lengths for given set of letters",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
+  "keywords": [
+    "word-cookie",
+    "permutations",
+    "words",
+    "letters",
+    "dictionary",
+    "wordnet"
+  ],
   "author": "irfan basha sheik",
   "license": "ISC",
   "dependencies": {
