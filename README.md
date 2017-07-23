@@ -6,13 +6,13 @@ This software generates all valid words of different lengths for given set of le
 
 ## Getting Started
 
-1. Install
+**Install**
 
 ```
 npm install word-cookie
 ```
 
-2. Use
+**Use**
 
 ```
 var wrdCookieSolver = require('word-cookie');
